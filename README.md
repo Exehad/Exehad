@@ -1,1 +1,1 @@
-[![Exehad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Exehad)](https://github.com/anuraghazra/github-readme-stats)
+![Exehad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Exehad&count_private=true&show_icons=true&theme=Nord)

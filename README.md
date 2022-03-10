@@ -1,1 +1,1 @@
-### I'm Exehad. I do stuff
+[![Exehad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Exehad)](https://github.com/anuraghazra/github-readme-stats)

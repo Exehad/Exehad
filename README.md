@@ -22,35 +22,20 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
 </div>
 

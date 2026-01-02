@@ -21,38 +21,37 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=github" height="40" float="left" alt="github logo"  />
-  <img width="12" float="left" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" float="left" alt="discord logo"  />
-  <img width="12" float="left" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" float="left" alt="cloudflare logo"  />
-  <img width="12" float="left" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" float="left" alt="docker logo"  />
-  <img width="12" float="left" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" float="left" alt="linux logo"  />
-  <img width="12" float="left" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" float="left" alt="postgresql logo"  />
-  <img width="12" float="left" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" float="left" alt="raspberrypi logo"  />
-  <img width="12" float="left" />
-  <img src="https://cdn.simpleicons.org/nginx/009639" height="40" float="left" alt="nginx logo"  />
-  <img width="12" float="left" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" float="left" alt="bash logo"  />
-  <img width="12" float="left" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" float="left" alt="powershell logo"  />
-  <img width="12" float="left" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" float="left" alt="vscode logo"  />
-  <img width="12" float="left" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" float="left" alt="html5 logo"  />
-  <img width="12" float="left" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" float="left" alt="javascript logo"  />
-  <img width="12" float="left" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" float="left" alt="nodejs logo"  />
-  <img width="12" float="left" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" float="left" alt="lua logo"  />
-  <img width="12" float="left" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" float="left" alt="go logo"  />
-  <img width="12" float="left" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
 </div>
 
 ###
